@@ -9,7 +9,7 @@ Requerimientos necesarios para el funcionamiento:
 - git clone https://github.com/jdSystemIU/neumonia_detector/tree/master
 - docker build -t python:latest .
 - docker run -it --rm -e DISPLAY=host.docker.internal:0 --net host python bash
-- curl -O https://www.mediafire.com/file/qf4dvvl7qqn4xey/WilhemNet_86.h5/file
+- curl -O https://drive.google.com/u/0/uc?id=1JpGyx1rnblGaFROWm4IqOPMUn7mY6Bih&export=download&confirm=t&uuid=433c5583-2a11-40ee-844e-a01b1090cd50
 - python main.py
 ----------------------------------------------------------------------------------
 
