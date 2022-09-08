@@ -6,7 +6,7 @@ Requerimientos necesarios para el funcionamiento:
 
 -Tener en funcionamiento docker
  Luego dirigirse al CMD y seguir las siguientes instrucciones:
-- git clone https://github.com/jdSystemIU/neumonia_detector
+- git clone https://github.com/jdSystemIU/neumonia_detector/tree/master
 - docker build -t python:latest .
 - docker run -it --rm -e DISPLAY=host.docker.internal:0 --net host python bash
 - curl -O https://download2292.mediafire.com/zmb2guhiqptg/qf4dvvl7qqn4xey/WilhemNet_86.h5
